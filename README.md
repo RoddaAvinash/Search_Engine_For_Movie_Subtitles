@@ -17,7 +17,15 @@ Preprocessing and Vectorization: Use the provided scripts to preprocess subtitle
 Document Chunking: Implement the document chunking algorithm to divide large subtitle documents into smaller chunks.
 Cosine Similarity Calculation: Calculate cosine similarity between document embeddings and user query embeddings to retrieve relevant documents.
 ChromaDB Integration: Store embeddings in a ChromaDB database for efficient retrieval.
-## Team Members
+## Output Images
+![Home](https://github.com/RoddaAvinash/Search_Engine_For_Movie_Subtitles/assets/155214451/fd003202-da19-40f9-a9c9-0105633cd5aa)
+![OutputFOrSummer](https://github.com/RoddaAvinash/Search_Engine_For_Movie_Subtitles/assets/155214451/7f0b04f9-7207-48c3-8393-2be831fa9864)
+![OutputForElvis](https://github.com/RoddaAvinash/Search_Engine_For_Movie_Subtitles/assets/155214451/7a74cee5-70e5-4884-8066-7674f335ee6c)
+![OpenSubtitlePageForElvis](https://github.com/RoddaAvinash/Search_Engine_For_Movie_Subtitles/assets/155214451/8b1324bc-b21b-4c9d-ac1d-8ac4e1d29cf9)
+
+
+
+## Team Member
 SK Reshma
 
 ## Fork the repository
