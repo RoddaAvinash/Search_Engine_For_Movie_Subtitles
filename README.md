@@ -17,8 +17,8 @@ Preprocessing and Vectorization: Use the provided scripts to preprocess subtitle
 Document Chunking: Implement the document chunking algorithm to divide large subtitle documents into smaller chunks.
 Cosine Similarity Calculation: Calculate cosine similarity between document embeddings and user query embeddings to retrieve relevant documents.
 ChromaDB Integration: Store embeddings in a ChromaDB database for efficient retrieval.
-## Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
+## Team Members
+SK Reshma
 
 ## Fork the repository
 Create a new branch
